@@ -1,2 +1,2 @@
 # architecture
-pratice architecture
+practice architecture
