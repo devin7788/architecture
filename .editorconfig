@@ -1,0 +1,12 @@
+# 顶级 EditorConfig 文件
+root = true
+
+# 所有文件统一缩进为 4 空格
+[*]
+indent_style = tab
+indent_size = 4
+tab_width = 4
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
