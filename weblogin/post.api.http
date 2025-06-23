@@ -1,0 +1,17 @@
+POST http://localhost:8080/register
+Content-Type: application/json
+
+{
+    "username": "test",
+    "password": "test"
+}
+
+
+### Send POST request with body as parameters
+POST http://localhost:8080/login
+Content-Type: application/json
+
+{
+    "username": "test",
+    "password": "test"
+}
